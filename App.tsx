@@ -116,7 +116,7 @@ const themeDark: Theme = {
 };
 
 const defaultHabits: Habit[] = [
-  { id: 'h1', icon: '⏰', name: 'Se lever à 06:00', active: true },
+  { id: 'h1', icon: '⏰', name: 'Se lever à 08:00', active: true },
   { id: 'h2', icon: '💪', name: 'Sport / Gym', active: true },
   { id: 'h3', icon: '📚', name: 'Lecture', active: true },
   { id: 'h4', icon: '📋', name: 'Planification', active: true },
