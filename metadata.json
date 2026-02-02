@@ -1,0 +1,5 @@
+{
+  "name": "Habit Tracker 2026",
+  "description": "A minimal, premium habit tracking application using Google Sheets as a backend.",
+  "requestFramePermissions": []
+}
